@@ -1,0 +1,119 @@
+body
+{
+	Background-color: #202020;
+	color: #ffffff;
+	font-family: 'Lato', sans-serif;
+	margin: 0 !important;
+	background-image: url(img/dark.png); background-attachment: fixed;
+	
+
+}
+
+
+#header
+{
+	width: 100%;
+	padding: 20px 0;
+ 	
+}
+#logo
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 5px;
+	
+}
+
+#nav
+{
+	width: 100%;
+	position: sticky;
+	top: 0;
+	font-size: 20px;
+	background-color: #333399;
+	padding: 10px 0;
+	text-align: center;
+	border-top: 1px solid #4444aa
+	
+	
+	
+	
+}
+#content
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+	
+	
+}
+
+#grafika
+{
+	width: 100%;
+	height: 150px;
+	background-image: url(img/tlok.png); background-attachment: fixed; background-repeat: no-repeat
+}
+#subfooter
+{
+	width: 100%;
+	background-color: black;
+	height: auto;
+	
+
+}
+#subcontainer
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#subl
+{
+	
+	text-align: center;
+	margin-top: 10px;
+	text-align: justify;
+	float: left;
+	width: 300px;
+	
+
+	
+}
+#locationico
+{
+	text-align: left;
+	float: left;
+	
+}
+#locationtext
+{
+	padding: 10px;
+	text-align: justify;
+	float: left;
+	
+}
+#subc
+{
+	text-align: center;
+	padding-top: 10px;
+	float: left;
+	width: 400px;
+		
+}
+#subr
+{
+	margin-top: 10px;
+	float: left;
+	width: 300px;
+	text-align: center;	
+}
+#footer
+{
+	text-align: center;
+	background-color: black;
+	padding:25px;
+	
+}
